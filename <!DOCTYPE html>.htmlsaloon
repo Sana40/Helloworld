@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Mobile Hair Saloon</title>
+
+     meta name="viewport"Saloon="width=device-width,initial-scale=1,0"
+<style>
+    body{
+        margin:0;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+ 
+    .topnav{
+        overflow:hidden;
+        background-color:#2aa1e0;
+
+    }
+
+    .topnav a{
+        float:left;
+        color:aliceblue;
+        text-align: center;
+        text-decoration:none;
+        font-size:17px;
+    }
+    .topnav a:hover {
+        background-color: floralwhite;
+        color:antiquewhite;
+
+    }
+    .topnav a:active{
+        background-color:#2aa1e0;
+    }
+    </style>
+    </head>
+    <body>
+
+
+   <div class="topnav">
+       <a class="active"
+       href="#About us">About us</a>
+       <a> href="#Our Product"</a>
+        <a>href="#Gallery"</a>
+         <a> href="#Contact Us"</a>
+         <a> href="#Landing Page"</a>
+         </div>
+         
+         <div style="padding-left: 16px;">
+            <h2>Every Hair Every Where Saloon</h2>
+            <p>Lorem Ipsus</p>
+
+            
+         <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, delectus rerum neque facere error repudiandae soluta ipsum et, quasi enim, nihil molestiae nam quisquam quis cupiditate architecto voluptas ullam fuga?</h3>
+         </div>
+         </body>
+         </html>
+
+    
